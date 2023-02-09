@@ -40,11 +40,12 @@
         android:textStyle="bold" />
 
     <Button
+        android:id="@+id/btnDatePicker"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_marginTop="15dp"
         android:text="select_date"
-        android:textColor="#A1887F"
+        android:textColor="#808080"
         android:textSize="20sp"
         android:textStyle="bold"
         app:backgroundTint="#FFFFFF" />
